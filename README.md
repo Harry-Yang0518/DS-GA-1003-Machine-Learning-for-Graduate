@@ -2,7 +2,7 @@
 
 ## Self Study Material (2023 Fall, Sophomore)
 
-### Course Information
+### Course Information: https://nyu-ds1003.github.io/spring2023/#lectures
 
 #### Course Description
 
